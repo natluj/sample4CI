@@ -41,7 +41,6 @@ public class User {
 //	ajout de hashCode qui doit être overrridé, comme equals
     @Override
     public int hashCode() {
-    	// TODO Auto-generated method stub
     	return super.hashCode();
     }
 
